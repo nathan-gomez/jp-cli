@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"title": "7 Habits of Highly Effective People",
+		"author": "Stephen Covey",
+		"published_date": "15/08/1989",
+		"original_language": "English"
+	},
+	{
+		"id": 2,
+		"title": "Title 2",
+		"author": "TU hermana",
+		"published_date": "15/08/2024",
+		"original_language": "Spanish"
+	},
+	{
+		"id": 3,
+		"title": "Title 3",
+		"author": "Stephen Covey",
+		"published_date": "01/01/2025",
+		"original_language": "English"
+	}
+]
